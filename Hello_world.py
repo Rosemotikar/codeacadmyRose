@@ -1,4 +1,4 @@
-2-Print the distinguished greeting “Hello world!”
+#2-Print the distinguished greeting “Hello world!”
 print("Hello world!")
 --------------------------------------------------------
 #3-1-Print your name using the print() command.
